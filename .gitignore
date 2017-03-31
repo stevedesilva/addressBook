@@ -1,0 +1,12 @@
+#Ignore all the content of the .idea directory when created locally
+./idea/*
+.idea/*
+.idea
+
+#Ignore all idea project files
+*.iml
+atlassian-ide-plugin.xml
+
+#Ignore all target directories created by maven and their content
+*/target/*
+target/*
