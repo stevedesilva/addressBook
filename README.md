@@ -21,9 +21,10 @@ Your application needs to read the attached AddressBook file and answer the foll
 After the relevant validation of the input and file has been performed, the file is convert into a records list.
 This list is reused for each question. 
 
-This application was built using Java 8, Maven. Tested with Junit and Mockito
+This application was built using Java 8, Maven 3. Tested with Junit and Mockito
 
-IDE -  Intellij 17
+IDE -  Intellij 17 (JDK 8, Maven 3, Project Language level 8 - Lambdas) 
+
 
 ## How to run the application
 
